@@ -22,5 +22,28 @@
     border-radius: 30;
 }
 
+.inf{
+    position: absolute;
+
+    margin-top: 10%;
+    margin-left: 40%;
+}
+.inf2 {
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 35%;
+
+}
+.button2 {
+    margin-top: 25%;
+    margin-left: 40%
+
+}
+.button3 {
+    margin-top: 25%;
+    margin-left: 5%
+
+}
+
 
 
