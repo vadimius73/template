@@ -1,3 +1,14 @@
-.test {color: red;
+.test {
+    color: red;
+}
+.header-nav {
+    display: flex;
 
 }
+.header {
+    position: absolute;
+}
+.nav {
+
+}
+
