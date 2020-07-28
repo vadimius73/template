@@ -7,8 +7,20 @@
 }
 .header {
     position: absolute;
+    width: 100%;
 }
-.nav {
+.nav{
+    text-align: center;
+}
+.contacts {
+    text-align: right;
+    margin-right: 20%;
+}
+.button {
+    background-color: blue;
+    ;
+    border-radius: 30;
+}
 
-}
+
 
